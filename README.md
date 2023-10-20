@@ -13,6 +13,6 @@
 **2.Bias**
 
 ### You can follow me:
-[[Links](https://www.facebook.com/emamul.hossen.503)
+[Links](https://www.facebook.com/emamul.hossen.503)
  
     
