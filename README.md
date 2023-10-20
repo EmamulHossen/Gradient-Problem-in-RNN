@@ -7,7 +7,7 @@
  The vanishing gradient problem is a well-known issue in training recurrent neural networks (RNNs). It occurs when gradients (derivatives of the loss with respect to the network's parameters) become too small as they are backpropagated through the network during training. When the gradients vanish, it becomes difficult for the network to learn long-range dependencies, and the training process may slow down or even stagnate. This problem is especially pronounced in traditional RNN architectures.
 
 
- <img src="https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/31_blog_image_2.png"> <img src="#"> <img src="#"> <img src="#"> <img src="#">
+ <img src="https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/31_blog_image_2.png"> <img src="#"> <img src="#"> <img src="#"> <img src="#"> <br/>
 
  
 **Basic Concept:**<br/>
