@@ -8,7 +8,7 @@
 
 
  <img src="https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/31_blog_image_2.png"> <img src="#"> <img src="#"> <img src="#"> <img src="#">
-###**Basic Concept**<br/>
+###Basic Concept<br/>
 **1.Weight**<br/>
 **2.Bias**
 
